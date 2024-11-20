@@ -1,0 +1,11 @@
+**Client Onboarding Process**
+1. **Initial Contact**  
+   - Send introductory email with company overview and services.
+2. **Discovery Call**  
+   - Schedule a call to discuss the client’s needs and expectations.
+3. **Proposal Submission**  
+   - Draft and send a proposal based on the call’s outcomes.
+4. **Contract Signing**  
+   - Once the client agrees, send contract for signature.
+5. **Project Kickoff**  
+   - Begin work on agreed tasks, including timeline management and regular check-ins.
