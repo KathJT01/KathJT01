@@ -1,22 +1,22 @@
-# Project Summary
+# Project Summary 📊
 
-## Project Title: [Insert Project Name]
+## Project Title: [Insert Project Name] 🏷️
 
-### Overview:
+### Overview 📋:
 Briefly describe the project and its main objectives.
 
-### Goal:
+### Goal 🎯:
 What is the end goal of the project? What do you aim to achieve?
 
-### Tasks:
+### Tasks 🔧:
 - Task 1: [Description of task]
 - Task 2: [Description of task]
 - Task 3: [Description of task]
 
-### Milestones:
+### Milestones 🎉:
 - Milestone 1: [Date or description]
 - Milestone 2: [Date or description]
 - Milestone 3: [Date or description]
 
-### Status:
+### Status ✅:
 - [Current status of the project: e.g., In progress, Completed]
