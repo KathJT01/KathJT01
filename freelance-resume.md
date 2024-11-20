@@ -1,27 +1,30 @@
-# Freelance Resume
+# Freelance Resume 📄
 
-## Contact Information
+## Contact Information 📞
 - **Name:** Kath JT
 - **Email:** email@example.com (replace with your actual email)
-- **Location:** Philippines
+- **Location:** Philippines 🇵🇭
 - **GitHub:** [github.com/KathJT01](https://github.com/KathJT01)
 
-## Summary
+## Summary 💼
 Freelancer with experience in customer service, education, and project management. Skilled in creating educational content, managing workflows, and collaborating with clients in remote settings.
 
-## Skills
+## Skills ⚡
 - **Customer Service**: Handling inquiries, troubleshooting, and providing solutions.
 - **Education**: Designing lesson plans, online tutoring, and assessment.
 - **Project Management**: Task organization, workflow automation, and client communication.
 
-## Experience
+## Experience 💻
 ### Freelance Customer Support Specialist
+*Date Range*  
 - Provided customer service for multiple clients via email and live chat.
 - Managed customer inquiries and provided timely solutions.
 
-### English Tutor (Online)
+### English Tutor (Online) ✏️
+*Date Range*  
 - Taught English to students of various levels.
 - Developed customized lesson plans and resources.
 
-## Education
-- Bachelor of Arts in English Language
+## Education 🎓
+- Bachelor’s Degree in [Your Field]
+- Certifications: [Any relevant certifications you hold]
