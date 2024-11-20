@@ -1,15 +1,15 @@
-# Daily Standup
+# Daily Standup 📅
 
-## Date: [Insert Date]
+## Date: [Insert Date] 🗓️
 
-### Yesterday’s Updates:
+### Yesterday’s Updates ⏪:
 - [List of tasks you worked on yesterday]
 
-### Today’s Focus:
+### Today’s Focus 🔨:
 - [List of tasks you plan to work on today]
 
-### Blockers:
+### Blockers 🚧:
 - [Any challenges or obstacles you are facing]
 
-### Notes:
+### Notes 📝:
 - [Any additional notes or comments]
