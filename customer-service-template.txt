@@ -1,0 +1,9 @@
+**Greeting:**
+"Hi, thank you for contacting [Company Name], this is [Your Name]. How can I assist you today?"
+
+**Common Questions and Answers:**
+- If asked about a product: "Can you provide the product ID so I can help you further?"
+- If asked about shipping: "I can check the status of your order. May I have your order number?"
+
+**Closing:**
+"Thank you for reaching out. If you need any further assistance, feel free to contact us again. Have a great day!"
